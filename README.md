@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bagandikovic
 - 👀 I’m interested in Numerical simulations of Black hole accretion and Data science
 - 🌱 I’m currently learning HARM-GRMHD code simulations
-- 💞️ I’m looking to collaborate on projects, ragarding to interests
+- 🔃 I’m looking forward to collaborations
 - 📫 How to reach me => bagandikovic@gmail.com
 
 <!---
